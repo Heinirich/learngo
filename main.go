@@ -11,5 +11,5 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Hi Gopher!")
+  fmt.Println("A Huge Number of Go Examples, Exercises and Quizzes!Lets Dig In!")
 }
